@@ -49,7 +49,7 @@ I'm a Experienced software developer with a strong background in full-stack deve
     
 <p align="center">
   <a href="mailto: charlesedwards153@rocketmail.com.com">
-   <img src="https://custom-icon-badges.demolab.com/badge/-Email Me-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:charlesedwards153@rocketmail.com"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svglink=mailto:charlesedwards153@rocketmail.com"/>
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/charles-edwards-iii/" target="blank"><img align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charles-edwards-iii/" height="30" width="40" /></a>
   </p>
