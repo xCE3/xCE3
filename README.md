@@ -44,6 +44,22 @@ I'm a Experienced software developer with a strong background in full-stack deve
 ### 🤝 Connect
   
   <p align="center">
+  [![website](./img/globe-light.svg)](link=mailto:charlesedwards153@rocketmail.com#gh-light-mode-only)
+  [![website](./img/globe-dark.svg)](link=mailto:charlesedwards153@rocketmail.com#gh-dark-mode-only)
+  &nbsp;&nbsp;
+  [![website](./img/youtube-light.svg)](#gh-light-mode-only)
+  [![website](./img/youtube-dark.svg)](#gh-dark-mode-only)
+  &nbsp;&nbsp;
+  [![website](./img/twitter-light.svg)](#gh-light-mode-only)
+  [![website](./img/twitter-dark.svg)](#gh-dark-mode-only)
+  &nbsp;&nbsp;
+  [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/charles-edwards-iii/#gh-light-mode-only)
+  [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/charles-edwards-iii/#gh-dark-mode-only)
+  &nbsp;&nbsp;
+  [![website](./img/instagram-light.svg)](#gh-light-mode-only)
+  [![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
+  </p>
+<p align="center">
   <a href="mailto: charlesedwards153@rocketmail.com.com">
    <img src="https://custom-icon-badges.demolab.com/badge/-charlesedwards153@rocketmail.com-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:charlesedwards153@rocketmail.com"/>
   </a>
