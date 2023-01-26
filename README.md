@@ -10,7 +10,9 @@ I'm a Experienced software developer with a strong background in full-stack deve
     <a href="https://github.com/xCE3?tab=repositories&sort=stargazers">
        <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/xCE3?logo=star&style=for-the-badge&logoColor=55960c&labelColor=488207"/></a>
   <img src="https://komarev.com/ghpvc/?username=xce3&color=blueviolet" alt="xce3" /> 
-
+    <a href="https://github.com/xCE3?tab=watchers">
+       <img alt="total viewers" title="Total Viewers on Github" src="https://custom-icon-badges.demolab.com/github/watchers/xCE3?logo=eye&style=for-the-badge&logoColor=blueviolet&labelColor=blueviolet"/></a>
+  
 ### 💻Technologies
  
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
