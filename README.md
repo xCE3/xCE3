@@ -7,7 +7,9 @@ I'm a Experienced software developer with a strong background in full-stack deve
   <p align="left">
     <a href="https://github.com/xCE3?tab=followers">
        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xCE3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-
+    <a href="https://github.com/xCE3?tab=repositories&sort=stargazers">
+       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/stars/xCE3?Color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+            
 <!--### Hi there 👋
 
 <!--
