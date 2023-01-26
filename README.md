@@ -28,7 +28,21 @@ I'm a Experienced software developer with a strong background in full-stack deve
   
 ### 📊 Stats
   
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=xce3&show_icons=true&theme=gruvbox)
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=xce3&show_icons=true&theme=tokyonight)
+  
+  <h2 align="center">
+    Github Stats <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F585449831791591424.png%3Fv%3D1&w=64&q=75" width="40"/>
+  </h2>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianka759&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" width="400"/>
+  </p>   
+  <p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xce3&show_icons=true&theme=tokyonight&line_height=27"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xce3&theme=tokyonight&hide=html,css"/>
+  </p>
+  <p align="center">
+   <img src="https://activity-graph.herokuapp.com/graph?username=xce3&theme=tokyonight" width="800"/>
+  </p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
   
