@@ -51,29 +51,10 @@ I'm a Experienced software developer with a strong background in full-stack deve
   <a href="mailto: charlesedwards153@rocketmail.com.com">
    <img src="https://custom-icon-badges.demolab.com/badge/-Email Me-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:charlesedwards153@rocketmail.com"/>
   </a>
-  <a href="https://www.linkedin.com/in/charles-edwards-iii/">
-   <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1D2226?style=flat&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/charles-edwards-iii/"/>
-  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/charles-edwards-iii/" target="blank"><img align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charles-edwards-iii/" height="30" width="40" /></a>
   </p>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xce3&label=Profile%20views&color=0e75b6&style=flat" alt="xce3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xce3" alt="xce3" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/xce3us" target="blank"><img src="https://img.shields.io/twitter/follow/xce3us?logo=twitter&style=for-the-badge" alt="xce3us" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xce3us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xce3us" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/charles-edwards-iii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charles-edwards-iii/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/xce3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xce3" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xce3&show_icons=true&locale=en&layout=compact" alt="xce3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xce3&show_icons=true&locale=en" alt="xce3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xce3&" alt="xce3" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
   
