@@ -39,8 +39,6 @@ I'm a Experienced software developer with a strong background in full-stack deve
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xce3&theme=tokyonight&hide=html,css"/>
   </p>
   <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=xce3&theme=tokyonight" width="800"/>
-  </p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
   
