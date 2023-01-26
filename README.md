@@ -39,6 +39,17 @@ I'm a Experienced software developer with a strong background in full-stack deve
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xce3&theme=tokyonight&hide=html,css"/>
   </p>
   <p align="center">
+  
+### 🤝 Connect
+  
+  <p align="center">
+  <a href="mailto: charlesedwards153@rocketmail.com.com">
+   <img src="https://custom-icon-badges.demolab.com/badge/-charlesedwards153@rocketmail.com-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:charlesedwards153@rocketmail.com"/>
+  </a>
+  <a href="https://www.linkedin.com/in/charles-edwards-iii/">
+   <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1D2226?style=flat&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/charles-edwards-iii/"/>
+  </a>
+  </p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
   
