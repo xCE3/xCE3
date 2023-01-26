@@ -10,10 +10,8 @@ I'm a Experienced software developer with a strong background in full-stack deve
     <a href="https://github.com/xCE3?tab=repositories&sort=stargazers">
        <img alt="total stars" title="Total stars on Github" src="https://custom-icon-badges.demolab.com/github/stars/xCE3?logo=star&style=for-the-badge&logoColor=55960c&labelColor=488207"/></a>
 
- <h2 align="center">
- 💻Technologies </h2>
+###💻Technologies </h2>
  
- <p align="center">
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,11 +25,9 @@ I'm a Experienced software developer with a strong background in full-stack deve
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="jquery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
- </p>
  
-  <h2 align="center">
-     📊 Github Stats </h2>
-  </h2>
+###📊 Github Stats
+
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianka759&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" width="400"/>
   </p>   
